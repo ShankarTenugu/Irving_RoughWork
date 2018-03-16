@@ -1,0 +1,1 @@
+C:\Samples\C#\WithoutDI\WithoutDI\bin\Debug\WithoutDI.exe.config

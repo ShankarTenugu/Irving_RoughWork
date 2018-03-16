@@ -1,0 +1,6 @@
+C:\Samples\C#\QuickPractise\QuickPractise\bin\Debug\QuickPractise.exe.config
+C:\Samples\C#\QuickPractise\QuickPractise\bin\Debug\QuickPractise.exe
+C:\Samples\C#\QuickPractise\QuickPractise\bin\Debug\QuickPractise.pdb
+C:\Samples\C#\QuickPractise\QuickPractise\obj\Debug\QuickPractise.csprojResolveAssemblyReference.cache
+C:\Samples\C#\QuickPractise\QuickPractise\obj\Debug\QuickPractise.exe
+C:\Samples\C#\QuickPractise\QuickPractise\obj\Debug\QuickPractise.pdb

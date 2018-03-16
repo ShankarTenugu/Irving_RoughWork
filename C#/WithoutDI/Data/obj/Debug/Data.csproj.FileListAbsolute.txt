@@ -1,0 +1,5 @@
+C:\Samples\C#\WithoutDI\Data\bin\Debug\Data.dll
+C:\Samples\C#\WithoutDI\Data\bin\Debug\Data.pdb
+C:\Samples\C#\WithoutDI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Samples\C#\WithoutDI\Data\obj\Debug\Data.dll
+C:\Samples\C#\WithoutDI\Data\obj\Debug\Data.pdb
